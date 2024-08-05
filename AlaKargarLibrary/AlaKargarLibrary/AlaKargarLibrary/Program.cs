@@ -11,7 +11,7 @@ namespace AlaKargarLibrary
     {
         static void Main(string[] args)
         {
-            //تعریف آرایه ها و دریافت تعداد دانش آموزان و کتاب ها
+            //Defind variables
             Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(    "Welcome to our library!");
@@ -58,7 +58,7 @@ namespace AlaKargarLibrary
 
                 switch (x)
                 {
-                        //دریافت اطلاعات دانش آموزان
+                        //Input student's informations
                     case 1:
                         Console.BackgroundColor = ConsoleColor.DarkBlue;
                         for (int i = 0; i < count; i++)
@@ -73,7 +73,7 @@ namespace AlaKargarLibrary
 
                     case 2:
                         Console.BackgroundColor = ConsoleColor.DarkYellow;
-                        //نمایش اطلاعات دانش آموزان
+                        //Show student's informations
                         Console.WriteLine("Students List: ");
                         for (int j = 0; j < count; j++)
                         {
@@ -83,7 +83,7 @@ namespace AlaKargarLibrary
 
                     case 3:
                         Console.BackgroundColor = ConsoleColor.DarkRed;
-                        //ویرایش اطلاعات دانش آموزان
+                        //Edit student's informations
                         Console.Write("please enter the student code, who you want edit: ");
                         int code = int.Parse(Console.ReadLine());
                         if (code < 1 || code > count + 1)
@@ -99,7 +99,7 @@ namespace AlaKargarLibrary
 
                     case 4:
                         Console.BackgroundColor = ConsoleColor.DarkBlue;
-                        //جستجوی دانش آموزان بر اساس نام خانوادگی
+                        //Search by student's family
                         Console.Write("Enter the student family: ");
                         string st = Console.ReadLine();
                         int sh = Array.IndexOf(family, st);
@@ -112,7 +112,7 @@ namespace AlaKargarLibrary
 
                     case 5:
                         Console.BackgroundColor = ConsoleColor.DarkYellow;
-                        //دریافت اطلاعات کتاب ها
+                        //input book's informations
                         for (int i = 0; i < count2; i++)
                         {
                             Console.Write("Enter the name of book {0}: ", i + 1);
@@ -134,7 +134,7 @@ namespace AlaKargarLibrary
 
                     case 7:
                         Console.BackgroundColor = ConsoleColor.DarkBlue;
-                        //نمایش کتاب های درخواستی
+                        //Show requested books 
                         Console.Write("Enter the subject: ");
                         string item = Console.ReadLine();
                         bool f = false;
