@@ -1,0 +1,15 @@
+C:\Users\OFAM\Desktop\ala\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\bin\Debug\AlaKargarLibrary.exe.config
+C:\Users\OFAM\Desktop\ala\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\bin\Debug\AlaKargarLibrary.exe
+C:\Users\OFAM\Desktop\ala\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\bin\Debug\AlaKargarLibrary.pdb
+C:\Users\OFAM\Desktop\ala\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.csprojResolveAssemblyReference.cache
+C:\Users\OFAM\Desktop\ala\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.exe
+C:\Users\OFAM\Desktop\ala\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.pdb
+F:\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\bin\Debug\AlaKargarLibrary.exe.config
+F:\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.exe
+F:\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.pdb
+D:\school project\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\bin\Debug\AlaKargarLibrary.exe.config
+D:\school project\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.exe
+D:\school project\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.pdb
+D:\files\school project\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\bin\Debug\AlaKargarLibrary.exe.config
+D:\files\school project\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.exe
+D:\files\school project\AlaKargarLibrary\AlaKargarLibrary\AlaKargarLibrary\obj\Debug\AlaKargarLibrary.pdb
